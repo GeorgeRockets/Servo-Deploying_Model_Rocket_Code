@@ -7,7 +7,7 @@ The program is designed to be used on a model rocket, and use IMU data from an A
 - Adafruit Micro SD SPI or SDIO Card Breakout Board - 3V ONLY!
 - SG90 Servo Motor
 - Breadboard, size small
-- 
-  **Schematic:**
+
+**Schematic:**
 ![Schematic of connections](Schematic.png)
 
