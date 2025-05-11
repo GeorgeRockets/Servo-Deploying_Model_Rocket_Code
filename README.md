@@ -11,3 +11,6 @@ The program is designed to be used on a model rocket, and use IMU data from an A
 **Schematic:**
 ![Schematic of connections](Schematic.png)
 
+**Watch this video for more information:**
+
+[![YouTube: Programming a model rocket.](https://i.ytimg.com/vi/aDCh8uubFhQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=aDCh8uubFhQ)
